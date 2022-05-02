@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">Lets find out\nyour love type!</string>
+    <string name="question">There were favorite flowers\nin the flower base.\nAs time goes, the flowers\nhave all withered.\nWhat are you going to do with that?</string>
+    <string name="you_are_a_quitter">You are a quitter!</string>
+    <string name="may_be_you_give_up_on_love_too_easily">May be you give up on love too easily..</string>
+</resources>
+
